@@ -1,5 +1,5 @@
 * {
-color:coral;
+color:rgb(0, 0, 0);
 }
 
 body {
@@ -13,27 +13,27 @@ body {
   }
   
   .style1 {
-    background-color: #9B9A9A;
+    background-color: #c3ee91;
   }
   
   .style2 {
-    background-color: #9B9A9A;
+    background-color: #e09595;
   }
   
   .style3 {
-    background-color: #9B9A9A;
+    background-color: #a2d7e7;
   }
   
   .style4 {
-    background-color: #9B9A9A;
+    background-color: #c29cec;
   }
   
   .style5 {
-    background-color: #9B9A9A;
+    background-color: #f0b2e7;
   }
   
   .style6 {
-    background-color: #9B9A9A;
+    background-color: #fcf4af;
   }
   
   /* SETTING THE COLOR OF THE BOX TEXT */
